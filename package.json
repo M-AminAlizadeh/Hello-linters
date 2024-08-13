@@ -1,4 +1,21 @@
 {
+  "name": "hello-linters",
+  "homepage": "https://hello-linters.vercel.app/",
+  "version": "1.0.0",
+  "description": "learning about how to install/run linters (webhint, lighthouse, stylelint)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-AminAlizadeh/Hello-linters.git"
+  },
+  "author": "Amin Alizadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M-AminAlizadeh/Hello-linters/issues"
+  },
   "dependencies": {
     "lighthouse": "^10.0.2",
     "node-modules": "^1.0.1"
